@@ -139,3 +139,4 @@ GitHub.sublime-settings
 
 db.sqlite3
 .idea/*
+.data
